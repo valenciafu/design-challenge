@@ -75,7 +75,7 @@ By **8am on Monday 2/11,** email your deliverables to **contact@pennlabs.org** w
 
 - **What's after this round?**
 
-    This is the last round! You may get an email asking you to clarify your decisions or explain your design, but otherwise you will be updated with final decisions by Friday 2/15.
+    This is the last round! You may get an email asking you to clarify your decisions or explain your design, but otherwise you will be updated with final decisions by end of Friday 2/15.
 
 - **This is so much work for a weekend. What are you really expecting?**
 
