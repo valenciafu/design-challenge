@@ -24,11 +24,11 @@ Let's be real: how painful is making mock schedules on Penn InTouch while toggli
 
 Registration is a complex process where students have to think about major requirements, course/professor ratings, and course offerings. All this data comes from a variety of different sources and is not leveraged to create any easy-to-use tools. Students would benefit from features such as comprehensive search filtering, integrated ratings, and a sleek mock scheduler.
 
-To this end, Labs recently acquired Penn Course Search (the name is not set in stone). As it currently exists, it offers certain search filters and a mock scheduler that's optimized for 1 semester. We want to clean it up and integrate it into our Penn Course suite, which already includes Penn Course Review and Penn Course Alert.
+To this end, Labs recently acquired Penn Course Search. Note that the name is not set it stone, and could be changed to better reflect the use cases of the web app. As it currently exists, it offers certain search filters and a mock scheduler that's optimized for 1 semester. We want to clean it up and integrate it into our Penn Course suite, which already includes Penn Course Review and Penn Course Alert.
 
 ## Deliverables
 
-Think about all the information students need when they go through the course selection and registration process. (Re)design Penn Course Search to help students do this more efficiently. As a bonus question, think about how to market this product to increase user adoption.
+Think about all the information and tools students need when they go through the course selection and registration process. Design Penn Course Search to help students do this more efficiently. As a bonus question, think about how to market this product to increase user adoption.
 
 Your deliverables:
 
@@ -42,7 +42,7 @@ In your deliverables, you are **highly encouraged** to provide written aids expl
 Finally, here are a few things we want you to remember when designing: 
 
 - What information and functions are integral (that address specific pain points of Penn students!)
-- Ask how the user will *interact* with the application before you consider exactly how it works
+- Ask how the user will *interact* with the application before you consider exactly how it looks
 - Edge cases regarding data or user behavior, and how to account for them
 - This is a complex application, so be wary of getting bogged down in the specifics - ie. instead of looking up and writing out the *exact* College requirements, just put placeholders.
 - **Don't get overwhelmed!** We want to see how you approach a design problem, think through its fundamental issues, and represent that in a mockup/prototype. We do not expect a perfect, 100% complete app design!
@@ -53,7 +53,7 @@ Sketch, Adobe Suite, InVision, Figma, HTML/CSS. You're free to use whatever tool
 
 [Penn Labs style guide](https://drive.google.com/file/d/1auGLpo7P1IidLidB3erCN-XxDAh75Ko_/view). This gives an overview of the colors and fonts we use at Penn Labs. Also consider what style conventions are currently used in Penn Course suite products.
 
-[Bulma, the CSS framework we use for products.](https://bulma.io/documentation/) Feel free to reference this for the basic CSS components that we use. Do not feel obligated to use follow it exactly, it's just a reference!
+[Bulma, the CSS framework we use for products.](https://bulma.io/documentation/) Feel free to reference this to see the basic CSS component styles that we use. Do not feel obligated to use follow it exactly, it's just a reference!
 
 ## Submission
 
